@@ -1,0 +1,10 @@
+git config --global user.name "Jelton Mentore"
+git config --global user.email fourteenyama@gmail.com
+git config --global core.editor "code --wait"
+git config --global -e
+git config --global core.autocrlf true
+
+
+
+code --help
+code --list-extensions
