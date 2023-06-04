@@ -1,3 +1,5 @@
+https://anshbadaya.medium.com/customizing-windows-terminal-with-posh-git-and-oh-my-posh-752c0e0eb8cb
+
 terminal settings:
   apperance: select theme
   color shecheme:
