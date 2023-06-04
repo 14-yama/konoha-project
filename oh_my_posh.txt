@@ -25,5 +25,10 @@ terminal settings:
   "cursorColor": "#ffcc00"
 }
 
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 
  oh-my-posh init pwsh --config 'C:\Users\corne\AppData\Local\Programs\oh-my-posh\themes\montys.omp.json' | Invoke-Expression
+ 
+ autocomplete
+Set-PSReadLineOption -PredictionSource History
+Set-PSReadLineOption -PredictionViewStyle ListView
