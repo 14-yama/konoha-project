@@ -3,3 +3,6 @@ Weather Station system
 Energy monitoring system
 Wind Speed Measurement
 Tank level monitoring system
+Dashboard detector display: temperature, smoke,CO, vibration.
+Preset Navigation Lights configuration using US coast guard rules and regulation handbook
+
