@@ -8,3 +8,5 @@
 6. npm install
 7. code .
 8. npm run dev
+9. npm install bootstrap@5.2.3 or lastest
+10. 
