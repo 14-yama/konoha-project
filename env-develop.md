@@ -1,6 +1,7 @@
 1. install node.js
 2. vsCode Extensions:
     - Prettier - Code formatter
+    - ES7+ React/Redux/React-Native snippets
 
 3. vsCode Settings: format on save
 4. Change directory to project folder
