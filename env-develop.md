@@ -2,6 +2,7 @@
 2. vsCode Extensions:
     - Prettier - Code formatter
     - ES7+ React/Redux/React-Native snippets
+    - Terminal: Format Document => Prettier
 
 3. vsCode Settings: format on save
 4. Change directory to project folder
