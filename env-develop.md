@@ -7,8 +7,9 @@
 3. vsCode Settings: format on save
 4. Change directory to project folder
 5. npm create vite@4.1.0 or latest
-6. npm install
-7. code .
-8. npm run dev
-9. npm install bootstrap@5.2.3 or lastest
-10. React Developer Tools for chrome 
+6. npm install react-icons@4.7.1 or latest
+7. npm install
+8. code .
+9. npm run dev
+10. npm install bootstrap@5.2.3 or lastest
+11. React Developer Tools for chrome 
