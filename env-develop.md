@@ -1,7 +1,7 @@
 1. install node.js
 2. vsCode Extensions:
     - Prettier - Code formatter
-    - ES7+ React/Redux/React-Native snippets
+    - ES7+ React/Redux/React-Native snippets -> rfce
     - Terminal: Format Document => Prettier
 
 3. vsCode Settings: format on save
