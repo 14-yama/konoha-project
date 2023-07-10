@@ -1,6 +1,4 @@
-Blender + Python
-Blender + React.js + Three.js
-JavaScript library: Stability & Hydrostatics
+
 ***********************************************
                   Completed
 ***********************************************
@@ -22,3 +20,5 @@ Postman
 ***********************************************
 
 Node.js
+Three.js
+Custom API
