@@ -11,6 +11,7 @@ Blender
 Python
 VS Code
 git
+Powershell
 React
 ChatGPT
 MongoDB
