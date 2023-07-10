@@ -1,7 +1,5 @@
 Blender + Python
 Blender + React.js + Three.js
-git
-ChatGPT
 JavaScript library: Stability & Hydrostatics
 ***********************************************
                   Completed
@@ -11,10 +9,13 @@ Fusion360
 Inventor
 Blender
 Python
+VS Code
 git
 React
-MongoDB
 ChatGPT
+MongoDB
+Postman
+
 ***********************************************
                   Upcoming
 ***********************************************
