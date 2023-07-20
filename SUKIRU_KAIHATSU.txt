@@ -1,6 +1,0 @@
-AutoCAD
-Fusion 360
-Inventor
-Blender
-Python
-React & TypeScript
