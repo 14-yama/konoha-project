@@ -81,7 +81,12 @@ const App: React.FC = () => {
               borderRadius="lg"
               overflow="hidden"
             >
-              <Image src={game.cropped_image} alt={game.name} />
+              <Image
+                src={game.cropped_image}
+                alt={game.name}
+                height="200px" // Set the height of the image to 140px
+                width="100%"
+              />
               <Box p={4}>
                 <h2>{game.name}</h2>
               </Box>
