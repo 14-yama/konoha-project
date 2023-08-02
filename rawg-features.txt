@@ -1,0 +1,20 @@
+Header:
+[]  Logo
+[] Search bar
+[] Login
+[] Sign-up
+
+Main:
+Rating
+Meta Score
+Filter by: Platform
+Ordered by: 
+Infinite Scroll
+Caching
+
+Navigation:
+Filter by: Genre
+
+
+
+
