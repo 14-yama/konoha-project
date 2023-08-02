@@ -1,3 +1,9 @@
+Speration of Concerns:
+-  Components
+-  Custom Hooks
+-  HTTP Services
+-  API Client
+
 Header:
 []  Logo
 [] Search bar
