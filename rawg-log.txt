@@ -2,7 +2,7 @@ Task:
 
 []	fetchPlatforms
 [] 	darkMode
-
+[]  gamesNoImages
 [] 	gameMetaScore
 []	gameStats
 []	gameRatings
