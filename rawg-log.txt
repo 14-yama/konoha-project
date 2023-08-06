@@ -2,7 +2,7 @@ Task:
 
 []	fetchPlatforms
 [] 	darkMode
-[] 	Logo
+
 [] 	gameMetaScore
 []	gameStats
 []	gameRatings
@@ -17,8 +17,14 @@ Solution:
 -  Ctrl + F5
 
 Tasks:
-[]	fetchGames
-[]	fetchGenres
+[x]	fetchGames
+[x]	fetchGenres
+[x] 	Logo
+[] Displaying Platform Icons
+parent_platform
+platform
+
+[]  Refactor Game Grid
 []  rawg theme
 
 
