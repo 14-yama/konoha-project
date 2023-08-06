@@ -1,4 +1,10 @@
 
 -----------------------------------------------------------------------
-How to revert to previous codes/commits
-Use API keys for all fetches
+Unresolved: How to revert to previous codes/commits
+Solution: GitGraph- Checkout & git revert
+
+Note: Use API keys for all fetches
+
+Tasks:
+1.  recreate new rawg project in VS Code
+2. Create Component: TemplateArea, FetchGames,FetchGenres,FetchPlatforms
