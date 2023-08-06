@@ -1,4 +1,15 @@
-
+Task:
+[]	fetchGames
+[]	fetchGenres
+[]	fetchPlatforms
+[] 	darkMode
+[] 	Logo
+[] 	gameMetaScore
+[]	gameStats
+[]	gameRatings
+[] 	gameScreenShot
+[]	gameTrailer
+[] 	searchGames
 -----------------------------------------------------------------------
 Unresolved: How to revert to previous codes/commits
 Solution: GitGraph- Checkout & git revert
@@ -6,5 +17,7 @@ Solution: GitGraph- Checkout & git revert
 Note: Use API keys for all fetches
 
 Tasks:
-1.  recreate new rawg project in VS Code
-2. Create Component: TemplateArea, FetchGames,FetchGenres,FetchPlatforms
+[x]	recreate new rawg project in VS Code
+[x]	copy existing node_module into rawg-io project folder
+[x] create component: TemplateArea
+[x] install VScode extension GitGraph 
