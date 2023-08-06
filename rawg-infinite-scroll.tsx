@@ -1,6 +1,3 @@
-// BACK_UP FILE BEFORE COMMIT RESET
-
-
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import InfiniteScroll from "react-infinite-scroll-component";
@@ -15,7 +12,11 @@ interface Game {
   cropped_image: string;
 }
 
-const App: React.FC = () => {
+interface GameListProps {
+  searchQuery: string;
+}
+
+const FetchGames: React.FC<GameListProps> = ({ searchQuery }) => {
   const [games, setGames] = useState<Game[]>([]);
   const [hasMore, setHasMore] = useState(true);
 
@@ -23,47 +24,36 @@ const App: React.FC = () => {
     fetchGames();
   }, []);
 
-  const fetchGames = async () => {
+  const fetchGames = async (page?: number) => {
     try {
       const response = await axios.get(RAWG_API_BASE_URL, {
         params: {
           key: API_KEY,
+          page: page || 1,
+          search: searchQuery, // Include search query in the API call
         },
       });
-      const croppedGames = response.data.results.map((game: Game) => ({
+      const fetchedGames = response.data.results.map((game: Game) => ({
         ...game,
         cropped_image: cropImageTo600x400(game.background_image),
       }));
-      setGames(croppedGames);
+      if (page && page > 1) {
+        setGames((prevGames) => [...prevGames, ...fetchedGames]);
+      } else {
+        setGames(fetchedGames);
+      }
+      setHasMore(fetchedGames.length > 0);
     } catch (error) {
       console.error("Error fetching games:", error);
     }
   };
 
   const fetchMoreGames = async () => {
-    try {
-      const response = await axios.get(RAWG_API_BASE_URL, {
-        params: {
-          key: API_KEY,
-          page: Math.floor(games.length / 20) + 1,
-        },
-      });
-      const newGames = response.data.results.map((game: Game) => ({
-        ...game,
-        cropped_image: cropImageTo600x400(game.background_image),
-      }));
-      setGames([...games, ...newGames]);
-
-      if (newGames.length === 0 || games.length >= response.data.count) {
-        setHasMore(false);
-      }
-    } catch (error) {
-      console.error("Error fetching more games:", error);
-    }
+    const nextPage = Math.floor(games.length / 20) + 1;
+    fetchGames(nextPage);
   };
 
   const cropImageTo600x400 = (imageUrl: string) => {
-    // Append query parameters to the image URL to crop it to 600x400 pixels
     return `${imageUrl}?width=600&height=400`;
   };
 
@@ -87,7 +77,7 @@ const App: React.FC = () => {
               <Image
                 src={game.cropped_image}
                 alt={game.name}
-                height="200px" // Set the height of the image to 140px
+                height="200px"
                 width="100%"
               />
               <Box p={4}>
@@ -101,4 +91,4 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+export default FetchGames;
