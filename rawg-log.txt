@@ -1,6 +1,5 @@
 Task:
-[]	fetchGames
-[]	fetchGenres
+
 []	fetchPlatforms
 [] 	darkMode
 [] 	Logo
@@ -10,7 +9,20 @@ Task:
 [] 	gameScreenShot
 []	gameTrailer
 [] 	searchGames
------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How-to: Shortcut to run compiler
+Solution: 
+-  Ctrl + Alt + N 
+-  Ctrl + F5
+
+Tasks:
+[]	fetchGames
+[]	fetchGenres
+[]  rawg theme
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unresolved: How to revert to previous codes/commits
 Solution: GitGraph- Checkout & git revert
 
