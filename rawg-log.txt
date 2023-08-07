@@ -9,28 +9,27 @@ Task:
 [] 	gameScreenShot
 []	gameTrailer
 [] 	searchGames
-
+[]  Refactor Game Grid
+[]  rawg theme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How-to: Shortcut to run compiler
 Solution: 
 -  Ctrl + Alt + N 
 -  Ctrl + F5
 
+
 Tasks:
 [x]	fetchGames
 [x]	fetchGenres
 [x] 	Logo
-[] Displaying Platform Icons
-parent_platform
-platform
+[] Displaying Platform Icons: Parent Platforms
 
-[]  Refactor Game Grid
-[]  rawg theme
-
+Unresolved: How to revert to previous commits and add it to working file?
+Solution: Go to the desired previous commit; File Changes: Open changes with working file
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unresolved: How to revert to previous codes/commits
-Solution: GitGraph- Checkout & git revert
+Solution: Use GitGraph- Checkout & git revert
 
 Note: Use API keys for all fetches
 
