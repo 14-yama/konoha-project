@@ -2,7 +2,8 @@ Task:
 
 []	fetchPlatforms
 [] 	darkMode
-[]  gamesNoImages
+[]  NoImageGames
+[]  Secure API Key Management
 [] 	gameMetaScore
 []	gameStats
 []	gameRatings
@@ -12,17 +13,39 @@ Task:
 []  Refactor Game Grid
 []  rawg theme
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tasks:
+[]  Sperations of Concerns:
+src/
+|-- components/
+|   |-- GameCard.tsx
+|   |-- TemplateArea.tsx
+|   |-- Footer.tsx
+|-- hooks/
+|   |-- useGameFetcher.tsx
+
+|-- pages/
+|   |-- Home.tsx
+|   |-- About.tsx
+|   |-- Contact.tsx
+|-- services/
+|   |-- api.tsx
+|-- utils/
+|   |-- cropImages.tsx
+|   |-- PlatformIcons.ts
+|-- App.tsx
+|-- index.tsx
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How-to: Shortcut to run compiler
 Solution: 
 -  Ctrl + Alt + N 
 -  Ctrl + F5
 
-
 Tasks:
 [x]	fetchGames
 [x]	fetchGenres
-[x] 	Logo
-[] Displaying Platform Icons: Parent Platforms
+[x] Logo
+[x] Displaying Platform Icons: Parent Platforms
 
 Unresolved: How to revert to previous commits and add it to working file?
 Solution: Go to the desired previous commit; File Changes: Open changes with working file
