@@ -87,4 +87,64 @@
   - Ballasted to proide stability
   - Alain Thebault & the Hydroptere
   - Hydrofoil Trimaran
-  - 
+  - Yacht Design Concept: Baleen Whale
+  - Yacht Design Degree: Coventry University, Landing School of Yacht Design & University of Southhampton
+ 
+  -  ### Entry 15 - Book (April 16th, 2019)
+  -  Book: Elements of Yacht Design
+  -  Lofting Boat Hull
+  -  Body Plan
+ 
+  -   ### Entry 16 - Marine Exploration (July 29th, 2019)
+  -   The idea of exploring the ocean deeps became more profound.
+ 
+  -   ### Entry 17 - YD-40 Sail Boat (October 28th, 2019)
+  -   Much time was spent understanding how to build a sailboat from scratch.
+  -   The terminologies of sailing was hard to comprehend
+  -   constructing a desired hull was unachievable at this time.
+  -   100hrs Commitment begins: SketchBook Pro
+
+  -   ### Entry 18 - AutoDesk Inventor (November 4th, 2019)
+  -   Import: Line drawing into Inventor
+  -   Insert: Profile, body & Half plan lines
+  -   Generate: Hull Surface
+  -   Surface Fairing
+  -   Hull Rib Types
+ 
+  -   ### Entry 19 - Boat Water-line (November 7th, 2019)
+  -   How to calcate waterline displacement
+  -   YD-40: free form
+ 
+    -   ### Entry 20 - Desired Design features (November 11th, 2019)
+  -   High gunwales
+  -   one level cockpit & deck saloon
+  -   Biminey top cover cockpit
+  -   Amel Yachts: Engine location>> Cockpit
+  -   I opted for the following: Garcia Exploration 52 or Moody 54 DS for it's large cabins.
+ 
+  -   ### Entry 21 - 1040hrs Challenge Begins (November 12th, 2019)
+  -   Maxsurf modeler Alternative: 3DS Max
+  -   I started explorating 3DS Max the same week
+  -   Freehand sketch marine related items
+  -   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
