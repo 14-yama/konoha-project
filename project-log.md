@@ -3,12 +3,136 @@
 ## Project Overview
 
 - Date Started: March 31, 2017
-- Expected Completion: October 17, 20XX
+- Expected Completion: October 17, 2045
 - Ship Type: Explorer
 - Length: 24 meters
 - Gross Tonnage: XXXX GT
 
 # Stage 1: Design and Planning
+
+### Entry 43 - Hull Framing System (May 14th, 2021)
+
+- Transverse & longitudinal
+
+### Entry 42 - Hull Construction & Type (May 12th, 2021)
+
+- load line vs. waterline
+- how to design a multi-chin hull
+- marine grade alluminium supplier: Alibaba
+- 12m hull @8mm= 100m2 >>1100kg
+- scanting frames
+- marine grade aluminium: DIN AIMg 2.5, AIM, 5022,5154, AA5086, AA5086, AA5083, 6063, 6351
+
+### Entry 41 - Desired Yacht Features (May 9th, 2021)
+
+- 12-14m centerboard aluminium hull
+- short handed sailing
+- panaramic view deck saloon
+- high latitude sailing
+- full deck swim platform
+- multifunction room: Technical/guest room
+- retractable roof in cockpit area
+- sun roof in owner's cabin
+- h0t & cold shower @ swim platform
+- life raft and fire extingisher @ swim platfrom
+- hand rails and ladder @ swim platform
+- collision bulkhead
+- davit system
+- helm station foot rest
+- large storage @ swim platform
+- double hull chin
+- 3.5 cabins
+- dhingy storage @ swim platform
+- fresh water storge: 500-700L (Stainless Steel or HDPE)
+- fuel storage:700-1000L
+
+### Entry 40 - YD-40 Design check list of Consideration (May 8th, 2021)
+
+- Define the intended use & limits
+- Collect information about simular boats
+- Decide on the main dimensions & ratios
+- Decide on the preliminary layout & exterior
+- make a first approximation of weights form parameters
+- Recheck and correct if necessary
+- produce a preliminary design to work from
+
+### Entry 39 -Boat Building Standards & Classification of Pleasure Boats (May 7th, 2021)
+
+- American Boat & Yacht Council (ABYC)
+- Europen Union: Recreational Craft Directive
+- UK only: MCA Code of Practice
+- Austrilia/ New Zealand Standard
+- Nordic Boat Standard
+- IMS measurement rules
+
+### Entry 38 -Yacht Comparision (May 5th, 2021)
+
+- compare Moody, Garcia & Ovni specs
+
+### Entry 37 -Desired design features from notable yachts (Aprl 28th-May 1st, 2021)
+
+- Amel: propeller viewport
+- Garcia: Centerboard, wetdeck layout & Flatbottom
+- Allures: Technical Room under cockpit chair
+- Boreal: Skipper Cabin- Cupboard & Storage
+- Ovni: Wide flush swim platform, handrails on swim platform & multi-function helm seat
+- Ovni: freash water shower on swim platform
+- Ovni: life raft at swim platform
+- Ovni: foot rest at helm seat- when heeled over
+- Vialar Explorer 42 DS: Saloon guest & helm seat combined
+- Aluminium Double chin hull
+
+### Entry 36 -AutoCAD: Shorcuts (April 20th, 2021)
+
+- learn AutoCAD shortcuts to boost productivty
+
+### Entry 35 -Inventor: Loft (April 14th, 2021)
+
+- resolve lofting issue
+
+### Entry 34 -Inventor: iLogic (March 30th, 2021)
+
+- MaxSurf alternative: Inventor iLogic
+- Proportional scaling
+- iLogic, iCopy, iProperty & iAssembly
+- Iventor: Sheet Metal AddOn
+
+### Entry 33 -Inventor: Surface Fairing (March 24th, 2021)
+
+- YD-40 Hull Fairing
+
+### Entry 32 -Inventor: Splines (March 8th, 2021)
+
+- 3D Splines from 2D Sketch
+
+### Entry 31 -Outcome of 1040hrs Challenge: 300hrs Remaining (Febuary 25th, 2021)
+
+- BOM
+- Parametric Design Hull
+- Animation: Parts Assembly, Stages of Constuction
+
+### Entry 30 -Boat Drawing Views (January 1st, 2021)
+
+- Profile
+- Half breath
+- Body
+
+### Entry 29 -Greenlanic Kayak (March 11th, 2020)
+
+- examine the blueprint of a Greenlanic Kayak
+- Greenlanic Kayak varies by region
+
+### Entry 28 - Blueprints: Airplane & Helicoptor (Febuary 20th, 2020)
+
+- Examine the cross sections from aircrafts
+- repricated aircraft using lofting techniques
+- Loft: G2 Smooth & Tangent
+- Loft: Transition condition
+
+### Entry 27 - Inventor: explore new commands (Febuary 19th, 2020)
+
+- Points & Workfeatures
+- use Kayak sheerline as guide line for lofting
 
 ### Entry 26 - Inventor: Lofting (Febuary 3rd-16th, 2020)
 
@@ -176,5 +300,3 @@
 - For the rest of the year, much time was spent on the Moody 54DS layout.
 - Much time was spent watching SV Delos Channel
 - 1" Stainless steel was quoted @ $37.5 TTD
-
--
