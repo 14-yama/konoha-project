@@ -51,7 +51,8 @@ I have dedicated time to understanding various boat construction methods. Explor
 
 ### Next Steps
 
-- Continue refining boat design using Blender.
+- Commit to another 1040 hrs of blender and web app
+- complete all free resources from [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui/videos) & [Josh Gambrell](https://www.youtube.com/@JoshGambrell/videos)
 - Start building the React-driven web app for hydrostatic and stability simulations.
 - Explore further contributions from the open-source community.
 - Regularly update and maintain project documentation.
